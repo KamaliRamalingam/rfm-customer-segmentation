@@ -2,7 +2,7 @@
 
 Segmenting 150,000 retail customers by **Recency, Frequency and Monetary value** in Snowflake SQL, then turning the segments into marketing recommendations.
 
-**Hyper Island · SQL and Databases · November 2025**
+**Hyper Island · Databases & SQL Fundamentals · November 2025**
 
 ![Customers vs revenue by RFM segment](images/customers_vs_revenue_by_segment.png)
 
